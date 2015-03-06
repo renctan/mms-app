@@ -1,0 +1,9 @@
+build/atom-shell
+build/node_modules
+
+./*.json
+*~
+*#
+.#*
+
+config.js
